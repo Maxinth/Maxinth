@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## Hi there! 👋
 
 - ⚡ About Me: My name is Tunde and I’m a Frontend Engineer with 2 years technical experience building norm-disruptive mobile responsive interfaces. I’ve worked with JavaScript, Node.js, React, TypeScript, NextJS etc
-- 🔭 🌱I’m currently learning a bit of backend.
+- 🌱I’m currently learning a bit of backend.
 - I’m currently working an a very interesting SaaS platform
 - 👯 I’m looking to collaborate on open source React js projects
 - 💬 Ask me about` Front end stuffs`, `hacks` and what have you.
