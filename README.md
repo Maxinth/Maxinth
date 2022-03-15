@@ -6,12 +6,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Hi there 👋
-⚡ About Me: My name is Tunde and I’m a Frontend Engineer with 2 years technical experience building norm-disruptive mobile responsive interfaces. I’ve worked with JavaScript, Node.js, React, TypeScript, NextJS etc
+- Hi there 👋
+-⚡ About Me: My name is Tunde and I’m a Frontend Engineer with 2 years technical experience building norm-disruptive mobile responsive interfaces. I’ve worked with JavaScript, Node.js, React, TypeScript, NextJS etc
 - 🌱 I’m currently learning a bit of backend.
 🔭 I’m currently working an a very interesting SaaS platform
-👯 I’m looking to collaborate on open source React js projects
-🤔 I’m looking for help with CTO roles
-💬 Ask me about Front end stuffs, hacks and what have you.
-📫 How to reach me: tunde.j.adeleye@gmail.com
-⚡ Fun fact: I love creating experiences!.
+-👯 I’m looking to collaborate on open source React js projects
+-🤔 I’m looking for help with CTO roles
+-💬 Ask me about Front end stuffs, hacks and what have you.
+-📫 How to reach me: tunde.j.adeleye@gmail.com
+-⚡ Fun fact: I love creating experiences!.
